@@ -1,6 +1,8 @@
 
-# JEFF'S GITHUB MAIN PAGE
+# JEFF'S GITHUB MAIN WEBPAGE
 
-List of projects:
+[main page](https://jeffdecola.github.io)
+
+## LIST OF PROJECTS
 
 [my-go-examples](https://jeffdecola.github.io/my-go-examples/)
