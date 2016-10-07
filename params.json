@@ -1,0 +1,6 @@
+{
+  "name": "JeffDecola.GitHub.io",
+  "tagline": "Jeff DeCola's Main GitHub Webpage",
+  "body": "# jeffdecola.github.io\r\n\r\n[![Code Climate](https://codeclimate.com/github/JeffDeCola/jeffdecola.github.io/badges/gpa.svg)](https://codeclimate.com/github/JeffDeCola/jeffdecola.github.io)\r\n[![Issue Count](https://codeclimate.com/github/JeffDeCola/jeffdecola.github.io/badges/issue_count.svg)](https://codeclimate.com/github/JeffDeCola/jeffdecola.github.io/issues)\r\n[![Go Report Card](https://goreportcard.com/badge/jeffdecola/jeffdecola.github.io)](https://goreportcard.com/report/jeffdecola/jeffdecola.github.io)\r\n[![GoDoc](https://godoc.org/github.com/JeffDeCola/jeffdecola.github.io?status.svg)](https://godoc.org/github.com/JeffDeCola/jeffdecola.github.io)\r\n[![License](http://img.shields.io/:license-mit-blue.svg)](http://jeffdecola.mit-license.org)\r\n\r\n`jeffdecola.github.io` _is a place to keep my go code snippets and examples._\r\n\r\n[Website](https://jeffdecola.github.io)\r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
