@@ -1,8 +1,8 @@
 ---
 layout: default
 title: JeffDeCola/jeffdecola.github.io
-projectname : Jeff DeCola
-summary: My main Repos.
+projectname : jeffdecola.github.io
+summary: Main Repos.
 ---
 
 {% include README.md %}

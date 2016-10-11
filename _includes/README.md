@@ -3,7 +3,7 @@
 [my-go-examples](https://jeffdecola.github.io/my-go-examples/)
 _is a place to keep my go code snippets and examples._
 
-[hello-gos](https://jeffdecola.github.io/hello-go/)
+[hello-go](https://jeffdecola.github.io/hello-go/)
 _uses concourse ci to test, build, push (to dockerhub) and
 deploy a long running "hello-world" docker image to marathon._
 
