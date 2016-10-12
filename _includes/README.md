@@ -18,6 +18,6 @@ using a .json file._
 [marathon-resource](https://github.com/ckaznocha/marathon-resource/)
 (Contributor) _A Concourse resource to deploy applications to Marathon._
 
-`[RESTful-API-test](https://jeffdecola.github.io/RESTful-API-test/)`
+[`RESTful-API-test`](https://jeffdecola.github.io/RESTful-API-test/)
 is a very limited RESTful API in which you can GET
 and POST data from a database via a CLI http client.
