@@ -28,3 +28,6 @@
    _A very limited RESTful API in which you can GET
    and POST data from a database via a CLI http client._
 
+* [catch-microservice](https://jeffdecola.github.io/catch-microservice/)
+
+   _A cluster of lightweight DockerHub Images playing catch with a virtual ball._
