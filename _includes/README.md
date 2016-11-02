@@ -4,6 +4,10 @@
 
    _A place to keep my go code snippets and examples._
 
+* [my-python-examples](https://jeffdecola.github.io/my-python-examples/)
+
+   _A place to keep my python code snippets and examples._
+
 * [hello-go](https://jeffdecola.github.io/hello-go/)
 
   _Using Concourse to test, build, push (to DockerHub) and
