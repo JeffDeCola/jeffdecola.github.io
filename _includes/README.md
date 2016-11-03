@@ -10,7 +10,7 @@
   _A place to keep my python code snippets and
   examples._
 
-* [my-cheat-sheets](https://jeffdecola.github.io/my-cheet-sheats/)
+* [my-cheat-sheets](https://jeffdecola.github.io/my-cheat-sheats/)
 
   _A place to keep my cheat sheets for various Apps, Operating Systems
   and Languages._
