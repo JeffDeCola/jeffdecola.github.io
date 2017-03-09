@@ -10,6 +10,11 @@
   _A place to keep my python code snippets and
   examples._
 
+* [my-php-containers](https://jeffdecola.github.io/my-php-containers/)
+
+   _A place to keep my php container examples.
+   Designed for Dynamic Screen Widths._
+
 * [my-cheat-sheets](https://jeffdecola.github.io/my-cheat-sheets/)
 
   _A place to keep my cheat sheets for various Apps, Operating Systems
@@ -43,8 +48,3 @@
 
    _A cluster of lightweight DockerHub Images playing catch with a
    virtual ball._
-
-* [my-php-containers](https://jeffdecola.github.io/my-php-containers/)
-
-   _A place to keep my php container examples. 
-   Designed for Dynamic Screen Widths._
