@@ -4,6 +4,13 @@
 
    _A place to keep my go code snippets and
    examples._
+   _([json](https://github.com/JeffDeCola/my-go-examples/tree/master/json),
+   ([gotests-complex-function](https://github.com/JeffDeCola/my-go-examples/tree/master/gotests-complex-function),
+   ([gomock](https://github.com/JeffDeCola/my-go-examples/tree/master/gomock),
+   ([read-file](https://github.com/JeffDeCola/my-go-examples/tree/master/read-file),
+   ([linked-list](https://github.com/JeffDeCola/my-go-examples/tree/master/linked-list),
+   ([recursion](https://github.com/JeffDeCola/my-go-examples/tree/master/recursion),
+   ([logging-error-handling](https://github.com/JeffDeCola/my-go-examples/tree/master/logging-error-handling))_
 
 * [my-python-examples](https://jeffdecola.github.io/my-python-examples/)
 
