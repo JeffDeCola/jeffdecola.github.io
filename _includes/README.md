@@ -5,49 +5,49 @@
    _A place to keep my go code snippets and
    examples._
 
-   _([json](https://github.com/JeffDeCola/my-go-examples/tree/master/json),
+   _[json](https://github.com/JeffDeCola/my-go-examples/tree/master/json),
    [gotests-complex-function](https://github.com/JeffDeCola/my-go-examples/tree/master/gotests-complex-function),
    [gomock](https://github.com/JeffDeCola/my-go-examples/tree/master/gomock),
    [read-file](https://github.com/JeffDeCola/my-go-examples/tree/master/read-file),
    [linked-list](https://github.com/JeffDeCola/my-go-examples/tree/master/linked-list),
    [recursion](https://github.com/JeffDeCola/my-go-examples/tree/master/recursion),
-   [logging-error-handling](https://github.com/JeffDeCola/my-go-examples/tree/master/logging-error-handling))_
+   [logging-error-handling](https://github.com/JeffDeCola/my-go-examples/tree/master/logging-error-handling)_
 
 * [my-python-examples](https://jeffdecola.github.io/my-python-examples/)
 
   _A place to keep my python code snippets and
   examples._
 
-  _([read-file](https://github.com/JeffDeCola/my-python-examples/tree/master/read-file))_
+  _[read-file](https://github.com/JeffDeCola/my-python-examples/tree/master/read-file)_
 
 * [my-php-containers](https://jeffdecola.github.io/my-php-containers/)
 
   _A place to keep my php container examples.
    Designed for Dynamic Screen Widths._
 
-  _([jeffs_tiny_url_container](https://github.com/JeffDeCola/my-php-containers/tree/master/jeffs_tiny_url_container),
+  _[jeffs_tiny_url_container](https://github.com/JeffDeCola/my-php-containers/tree/master/jeffs_tiny_url_container),
   [jeffs_simple_chat_container](https://github.com/JeffDeCola/my-php-containers/tree/master/jeffs_simple_chat_container),
   [narrow_picture_container](https://github.com/JeffDeCola/my-php-containers/tree/master/narrow_picture_container),
   [social_media_bar_container](https://github.com/JeffDeCola/my-php-containers/tree/master/social_media_bar_container),
   [dynamic_items_container](https://github.com/JeffDeCola/my-php-containers/tree/master/dynamic_items_container),
   [contact_form_container](https://github.com/JeffDeCola/my-php-containers/tree/master/contact_form_container),
-  [video_container](https://github.com/JeffDeCola/my-php-containers/tree/master/video_container))_
+  [video_container](https://github.com/JeffDeCola/my-php-containers/tree/master/video_container)_
 
 * [my-concourse-ci-tasks](https://jeffdecola.github.io/my-concourse-ci-tasks/)
 
    _A place to keep snippets and examples of Concourse CI tasks._
 
-  _([ls-example](https://github.com/JeffDeCola/my-concourse-ci-tasks/tree/master/ls-example),
-  [readme-github-pages](https://github.com/JeffDeCola/my-concourse-ci-tasks/tree/master/readme-github-pages))_
+  _[ls-example](https://github.com/JeffDeCola/my-concourse-ci-tasks/tree/master/ls-example),
+  [readme-github-pages](https://github.com/JeffDeCola/my-concourse-ci-tasks/tree/master/readme-github-pages)_
 
 * [my-cheat-sheets](https://jeffdecola.github.io/my-cheat-sheets/)
 
   _A place to keep my cheat sheets for various Apps, Operating Systems
   and Languages._
 
-  _([git](https://github.com/JeffDeCola/my-cheat-sheets/tree/master/git-cheat-sheet),
+  _[git](https://github.com/JeffDeCola/my-cheat-sheets/tree/master/git-cheat-sheet),
   [docker](https://github.com/JeffDeCola/my-cheat-sheets/tree/master/docker-cheat-sheet),
-  [concourse](https://github.com/JeffDeCola/my-cheat-sheets/tree/master/concourse-cheat-sheet))_
+  [concourse](https://github.com/JeffDeCola/my-cheat-sheets/tree/master/concourse-cheat-sheet)_
 
 * [hello-go](https://jeffdecola.github.io/hello-go/)
 
