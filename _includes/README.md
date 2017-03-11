@@ -47,7 +47,7 @@
 
   _[git](https://github.com/JeffDeCola/my-cheat-sheets/tree/master/git-cheat-sheet),
   [docker](https://github.com/JeffDeCola/my-cheat-sheets/tree/master/docker-cheat-sheet),
-  [concourse](https://github.com/JeffDeCola/my-cheat-sheets/tree/master/concourse-cheat-sheet)_
+  [concourse ci](https://github.com/JeffDeCola/my-cheat-sheets/tree/master/concourse-ci-cheat-sheet)_
 
 * [hello-go](https://jeffdecola.github.io/hello-go/)
 
