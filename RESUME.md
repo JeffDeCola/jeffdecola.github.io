@@ -52,8 +52,9 @@ verification of the Smartswitch II backplane ASIC for the MMAC-Plus Switching Hu
 
 ## EDUCATION
 
-University of New Hampshire, Durham, New Hampshire,
-B.S.E.E. 1991,  M.S.E.E. 1993
+University of New Hampshire, Durham, New Hampshire, B.S.E.E. 1991,  M.S.E.E. 1993
+
+IEEE, Chapter VicePresident.
 
 Master's Thesis:
 ["A High-Level Design Framework Illustrating Technology Migration"](http://librarycatalog.unh.edu/search~S5?/aDeCola%2C+Jeffry+A/adecola+jeffry+a/-3%2C-1%2C0%2CB/frameset&FF=adecola+jeffry+a&1%2C1%2C)
