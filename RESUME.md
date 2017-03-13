@@ -2,16 +2,16 @@
 Los Angeles, CA 90046,
 310-880-7526
 
-[Jeff.DeCo.la](http://jeff.deco.la), [Github Profile](https://jeffdecola.github.io/)
+[Jeff.DeCo.la](http://jeff.deco.la), [GitHub Profile](https://jeffdecola.github.io/)
 
-_Systems developer with a passion for IoT and DevOps_
+_Systems Developer with a passion for IoT and DevOps_
 
 ## WORK EXPERIENCE
 
 ### Keeperlabs Technologies, Software Architect (2013-2016)
 
 Architected and designed software for an IoT embedded system using
-microservices. Hired other sofware engineers to implement various
+microservices. Hired other software engineers to implement various
 microservices.
 
 ### It's Terrific Pictures, Co-Owner/Producer (2005-2013)
@@ -27,7 +27,7 @@ Mark Rydell and Lyle Kessler.
 
 ### Good Citizen Productions, Producer (2004-2005)
 
-Resposible for various video productions in Los Angeles.
+Responsible for various video productions in Los Angeles.
 
 ### National Skate Patrol, President (2001-2003)
 
