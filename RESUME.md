@@ -35,8 +35,8 @@ President of the National Skate Patrol, a 500 member 501(c)3.
 
 ### Fujitsu Networks, Principle  Hardware Architect (1997-2001)
 
-Responsible for the Hardware Architecture and Development of Fujitsu's Enterprise Router Project.
 Led an ASIC Hardware Development Team.
+Responsible for the Hardware Architecture and Development of Fujitsu's Enterprise Router Project.
 
 ### Siltek Systems - ASIC Design Consultant (1997)
 
