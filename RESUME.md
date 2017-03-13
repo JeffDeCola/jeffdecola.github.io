@@ -17,7 +17,7 @@ microservices.
 ### It's Terrific Pictures, Co-Owner/Producer (2005-2013)
 
 Produced an award winning feature "The Frontier", starring Max Gail.
-Premiered at SXSW (2013). Produced music videos, documentaries, 
+Premiered at SXSW (2013). Produced music videos, documentaries,
 shorts and commercial for clients in the Los Angeles Area.
 
 ### The Total Picture Seminar, Producer (2009)
@@ -36,7 +36,8 @@ President of the National Skate Patrol, a 500 member 501(c)3.
 ### Fujitsu Networks, Principle Hardware Architect (1997-2001)
 
 Led an ASIC Hardware Development Team.
-Responsible for the Hardware Architecture and Development of Fujitsu's Enterprise Router Project.
+Responsible for the Hardware Architecture and Development of
+Fujitsu's Enterprise Router Project.
 
 ### Siltek Systems - ASIC Design Consultant (1997)
 
@@ -54,7 +55,7 @@ verification of the Smartswitch II backplane ASIC for the MMAC-Plus Switching Hu
 University of New Hampshire, Durham, New Hampshire,
 B.S.E.E. 1991,  M.S.E.E. 1993
 
-Master Thesis:
+Master's Thesis:
 ["A High-Level Design Framework Illustrating Technology Migration"](http://librarycatalog.unh.edu/search~S5?/aDeCola%2C+Jeffry+A/adecola+jeffry+a/-3%2C-1%2C0%2CB/frameset&FF=adecola+jeffry+a&1%2C1%2C)
 
 ## PUBLICATIONS
