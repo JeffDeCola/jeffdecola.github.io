@@ -11,7 +11,7 @@
    [read-file](https://github.com/JeffDeCola/my-go-examples/tree/master/read-file),
    [linked-list](https://github.com/JeffDeCola/my-go-examples/tree/master/linked-list),
    [pointers](https://github.com/JeffDeCola/my-go-examples/tree/master/pointers),
-   [methods-and-interfaces](https://github.com/JeffDeCola/my-go-examples/tree/master/methods-and-interface),
+   [methods-and-interfaces](https://github.com/JeffDeCola/my-go-examples/tree/master/methods-and-interfaces),
    [recursion](https://github.com/JeffDeCola/my-go-examples/tree/master/recursion),
    [logging-error-handling](https://github.com/JeffDeCola/my-go-examples/tree/master/logging-error-handling),
    [simple-webserver](https://github.com/JeffDeCola/my-go-examples/tree/master/simple-webserver),
