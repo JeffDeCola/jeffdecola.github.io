@@ -10,8 +10,12 @@
    [gomock](https://github.com/JeffDeCola/my-go-examples/tree/master/gomock),
    [read-file](https://github.com/JeffDeCola/my-go-examples/tree/master/read-file),
    [linked-list](https://github.com/JeffDeCola/my-go-examples/tree/master/linked-list),
+   [pointers](https://github.com/JeffDeCola/my-go-examples/tree/master/pointers),
+   [methods-and-interfaces](https://github.com/JeffDeCola/my-go-examples/tree/master/methods-and-interface),
    [recursion](https://github.com/JeffDeCola/my-go-examples/tree/master/recursion),
-   [logging-error-handling](https://github.com/JeffDeCola/my-go-examples/tree/master/logging-error-handling)_
+   [logging-error-handling](https://github.com/JeffDeCola/my-go-examples/tree/master/logging-error-handling),
+   [simple-webserver](https://github.com/JeffDeCola/my-go-examples/tree/master/simple-webserver),
+   [simple-webserver-with-REST](https://github.com/JeffDeCola/my-go-examples/tree/master/simple-webserver-with-REST)_
 
 * [my-python-examples](https://jeffdecola.github.io/my-python-examples/)
 
