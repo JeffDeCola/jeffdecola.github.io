@@ -31,9 +31,10 @@ Resposible for various video productions in Los Angeles.
 
 President of the National Skate Patrol, a 500 member 501(c)3.
 
-### Fujitsu Networks, Principle  Harware Architect (1997-2001)
+### Fujitsu Networks, Principle  Hardware Architect (1997-2001)
 
 Responsible for the Hardware Architecture and Development of Fujitsu's Enterprise Router Project.
+Led an ASIC Hardware Development Team to accomplish this project.
 
 ### Siltek Systems - ASIC Design Consultant (1997)
 
