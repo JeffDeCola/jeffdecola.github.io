@@ -1,8 +1,8 @@
 # Jeffry A. DeCola
-Los Angeles, CA 90046
+Los Angeles, CA 90046,
 310-880-7526
 
-www.JeffryADeCola.com
+[jeff.deco.la](http://jeff.deco.la), [My Github](https://jeffdecola.github.io/)
 
 _Systems developer with a passion for IoT and DevOps_
 
@@ -14,13 +14,13 @@ Architected and designed software for an IoT embedded system using
 microservices. Hired other sofware engineers to implement various
 microservices.
 
-### It's Terrific Pictures, Co-owner/Producer (2005-2013)
+### It's Terrific Pictures, Co-Owner/Producer (2005-2013)
 
 Produced an award winning feature "The Frontier", starring Max Gail.
 Premiered at SXSW (2013). Produced music videos, documentaries, 
 shorts and commercial for clients in the Los Angeles Area.
 
-### The Total Picture Seminar (2009)
+### The Total Picture Seminar, Producer (2009)
 
 Produced a two day seminar on acting, directing and writing for Martin Landau,
 Mark Rydell and Lyle Kessler.
@@ -51,7 +51,7 @@ verification of the Smartswitch II backplane ASIC for the MMAC-Plus Switching Hu
 
 ## EDUCATION
 
-University of New Hampshire, Durham, New Hampshire
+University of New Hampshire, Durham, New Hampshire,
 B.S.E.E. 1991,  M.S.E.E. 1993
 
 Master Thesis: "A High-Level Design Framework Illustrating Technology Migration"
