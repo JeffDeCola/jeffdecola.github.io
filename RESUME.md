@@ -1,6 +1,7 @@
 # Jeffry A. DeCola
 Los Angeles, CA 90046
 310-880-7526
+
 www.JeffryADeCola.com
 
 ## WORK EXPERIENCE
