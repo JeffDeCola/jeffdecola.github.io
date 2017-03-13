@@ -4,11 +4,13 @@ Los Angeles, CA 90046
 
 www.JeffryADeCola.com
 
+_Systems developer with a passion for IoT and DevOps_
+
 ## WORK EXPERIENCE
 
 ### Keeperlabs Technologies, Software Architect (2013-2016)
 
-Architected and designed software for an embedded system using
+Architected and designed software for an IoT embedded system using
 microservices. Hired other sofware engineers to implement various
 microservices.
 
