@@ -60,7 +60,7 @@
   [terraform](https://github.com/JeffDeCola/my-cheat-sheets/tree/master/terraform-cheat-sheet),
   [consul](https://github.com/JeffDeCola/my-cheat-sheets/tree/master/consul-cheat-sheet),
   [vagrant](https://github.com/JeffDeCola/my-cheat-sheets/tree/master/vagrant-cheat-sheet),
-  [kubernetes](https://github.com/JeffDeCola/my-cheat-sheets/tree/master/kubernetes)-cheat-sheet,
+  [kubernetes](https://github.com/JeffDeCola/my-cheat-sheets/tree/master/kubernetes-cheat-sheet),
   [stackdriver](https://github.com/JeffDeCola/my-cheat-sheets/tree/master/stackdriver-cheat-sheet)_
 
 * [hello-go](https://jeffdecola.github.io/hello-go/)
