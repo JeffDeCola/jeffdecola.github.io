@@ -15,7 +15,9 @@
    [recursion](https://github.com/JeffDeCola/my-go-examples/tree/master/recursion),
    [logging-error-handling](https://github.com/JeffDeCola/my-go-examples/tree/master/logging-error-handling),
    [simple-webserver](https://github.com/JeffDeCola/my-go-examples/tree/master/simple-webserver),
-   [simple-webserver-with-REST](https://github.com/JeffDeCola/my-go-examples/tree/master/simple-webserver-with-REST)_
+   [simple-webserver-with-REST](https://github.com/JeffDeCola/my-go-examples/tree/master/simple-webserver-with-REST),
+   [goroutines-channels-select](https://github.com/JeffDeCola/my-go-examples/tree/master/goroutines-channels-select),
+   [goroutines-waitgroup](https://github.com/JeffDeCola/my-go-examples/tree/master/goroutines-waitgroup)_
 
 * [my-python-examples](https://jeffdecola.github.io/my-python-examples/)
 
