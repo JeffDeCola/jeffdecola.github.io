@@ -25,16 +25,16 @@ From North to South.
 
 ## HILL
 
-* HORSE THEIF (****) _Great Bisket_
-* BELCAMP (***) _Good SImpe Burgers_
-* PERCH (LIST)
-* HILL STREET PIZZA (LIST)
-* LIONS AND OWLS (*) _Complete Shit_
+* HORSE THEIF _Great Bisket_ ****
+* BELCAMPO _Good SImpe Burgers_ ***
+* PERCH
+* HILL STREET PIZZA
+* LIONS AND OWLS _Complete Shit_ *
 
 ## BROADWAY
 
-* BLUE BOTTLE COFFEE (**) _No Cream_
-* MACCHERONI REPUBLIC (****) _ Great Value, Fresh Pasta_
+* BLUE BOTTLE COFFEE _No Cream_ **
+* MACCHERONI REPUBLIC _ Great Value, Fresh Pasta_ ****
 
 ## SPRING
 
