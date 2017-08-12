@@ -2,10 +2,10 @@
 
 ## LITTLE TOKEO
 
-* DAIKOKUYA (****) _Amazing Ramon_
-* MARUGAME MONZO (****) _Hand Made Udon_
-* FAR BAR (****) _Great Ramon_
-* CAFE DEMITASSE (****) _ Siphon Coffee_
+* DAIKOKUYA _Amazing Ramon_ ****
+* MARUGAME MONZO _Hand Made Udon_ ****
+* FAR BAR _Great Ramon_ ***
+* CAFE DEMITASSE _Siphon Coffee_ ****
 
 ## CHINA TOWN
 
