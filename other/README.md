@@ -1,17 +1,15 @@
 # VARIOUS LUNCHES AROUND DTLA
 
-## LITTLE TOKEO
+Listed from North to South.
 
-* DAIKOKUYA _Amazing Ramon_ ****
-* MARUGAME MONZO _Hand Made Udon_ ****
-* FAR BAR _Great Ramon_ ***
-* CAFE DEMITASSE _Siphon Coffee_ ****
+## LITTLE TOKYO
 
-## CHINA TOWN
+* DAIKOKUYA _Amazing ramon_ ****
+* MARUGAME MONZO _Hand made udon_ ****
+* FAR BAR _Great ramon, great bar_ ****
+* CAFE DEMITASSE _Siphon coffee_ ****
 
-## OTHER
-
-From North to South.
+## CHINATOWN
 
 ## FIGUEROA
 
@@ -25,20 +23,26 @@ From North to South.
 
 ## HILL
 
-* HORSE THEIF _Great Bisket_ ****
-* BELCAMPO _Good SImpe Burgers_ ***
+* HORSE THEIF _Great brisket_ ****
+* BELCAMPO MEAT CO. _Good simpe burgers_ ***
 * PERCH
 * HILL STREET PIZZA
-* LIONS AND OWLS _Complete Shit_ *
+* LIONS AND OWLS _Complete and utter shit_ *
 
 ## BROADWAY
 
-* BLUE BOTTLE COFFEE _No Cream_ **
-* MACCHERONI REPUBLIC _ Great Value, Fresh Pasta_ ****
+* BLUE BOTTLE COFFEE _No cream_ **
+* MACCHERONI REPUBLIC _Great value, fresh pasta, love this place_ ****
+* MESCALERO _Mescal and tacos, what more do you want_ ***
+* KAI JAPANEASE ROOTS SUSHI _Good lunch specials_ ***
+* CLIFTON'S REPUBLIC _American Fare, cafeteria style_ ****
+* UMAMI BURGER _Gourmet burgers_ ****
 
 ## SPRING
 
 * SPRING
+* GUISADOS _Amazing tacos_ ****
+* BLU JAM CAFE _ Great fresh lunch, soups and breakfast food_ ****
 
 ## MAIN
 
