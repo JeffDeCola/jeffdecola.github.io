@@ -25,8 +25,8 @@ Listed from North to South.
 
 * HORSE THEIF _Great brisket_ ****
 * BELCAMPO MEAT CO. _Good simpe burgers_ ***
-* PERCH
-* HILL STREET PIZZA
+* - PERCH
+* - HILL STREET PIZZA
 * LIONS AND OWLS _Complete and utter shit_ *
 
 ## BROADWAY
@@ -35,12 +35,12 @@ Listed from North to South.
 * MACCHERONI REPUBLIC _Great value, fresh pasta, love this place_ ****
 * MESCALERO _Mescal and tacos, what more do you want_ ***
 * KAI JAPANEASE ROOTS SUSHI _Good lunch specials_ ***
-* CLIFTON'S REPUBLIC _American Fare, cafeteria style_ ****
+* CLIFTON'S REPUBLIC _American fare, cafeteria style_ ****
 * UMAMI BURGER _Gourmet burgers_ ****
 
 ## SPRING
 
-* SPRING
+* - SPRING
 * GUISADOS _Amazing tacos_ ****
 * BLU JAM CAFE _ Great fresh lunch, soups and breakfast food_ ****
 
