@@ -25,8 +25,8 @@ Listed from North to South.
 
 * HORSE THEIF _Great brisket_ ****
 * BELCAMPO MEAT CO. _Good simpe burgers_ ***
-* - PERCH
-* - HILL STREET PIZZA
+  * PERCH
+  * HILL STREET PIZZA
 * LIONS AND OWLS _Complete and utter shit_ *
 
 ## BROADWAY
@@ -40,7 +40,7 @@ Listed from North to South.
 
 ## SPRING
 
-* - SPRING
+  * SPRING
 * GUISADOS _Amazing tacos_ ****
 * BLU JAM CAFE _ Great fresh lunch, soups and breakfast food_ ****
 
