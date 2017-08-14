@@ -34,14 +34,15 @@ DEKKADANCE
 
 ## 7TH
 
-* _Dublin's Irish Whiskey Pub_
+* TOGO
+  * DUBLIN'S IRISH WHISKEY PUB
 * 10e RESTAURANT _Mediterranean, great flat bread_ ***
-* _Seasalt Fish Grill_
-* _3rd Generation Sake Bar_
+  * SEASALT FISH GRILL
+  * 3RD GENERATION SAKE BAR
 * WOKCANO _Fair Asian, not great_ **
 * OCTOPUS JAPANESE RESTARAUNT _Great Lunch Special_ ***
 * GIULIA _Pretty Good Italian_ ***
-* _Sugarfish_
+  * SUGARFISH
 * SO LONG, HI! _Pretty good thai. **
 * POKETENDO _Great Poke_ ***
 * LITTLE SISTER DOWNTOWN _Asian Fusion_ ***
@@ -50,6 +51,7 @@ DEKKADANCE
 * LOS ANGELES ATHLETIC CLUB INVENTIONS BAR _OK Lunch_ **
 * RICEBAR _Perfect Filipino_ ****
 * LITTLE DAMAGE _Shitty Icecream_ *
+
 
 ## 8TH
 
