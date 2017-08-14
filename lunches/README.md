@@ -34,17 +34,28 @@ DEKKADANCE
 
 ## 7TH
 
+* _Dublin's Irish Whiskey Pub_
 * 10e RESTAURANT _Mediterranean, great flat bread_ ***
+* _Seasalt Fish Grill_
+* _3rd Generation Sake Bar_
 * WOKCANO _Fair Asian, not great_ **
-
-SEASALT FISH GRILL
-SUGARFISH
+* OCTOPUS JAPANESE RESTARAUNT _Great Lunch Special_ ***
+* GIULIA _Pretty Good Italian_ ***
+* _Sugarfish_
+* SO LONG, HI! _Pretty good thai. **
+* POKETENDO _Great Poke_ ***
+* LITTLE SISTER DOWNTOWN _Asian Fusion_ ***
+* MAS MALO _Amazing Quacamole_ ***
+* LOS ANGELES ATHLETIC CLUB INVENTIONS BAR _The club Baby_ ***
+* LOS ANGELES ATHLETIC CLUB INVENTIONS BAR _OK Lunch_ **
+* RICEBAR _Perfect Filipino_ ****
+* LITTLE DAMAGE _Shitty Icecream_ *
 
 ## 8TH
 
 ## 9TH
 
-CASA NOSTRA RISTORANTE & BAR
+_CASA NOSTRA RISTORANTE & BAR_
 
 ## OLYMPIC
 
@@ -52,11 +63,11 @@ CASA NOSTRA RISTORANTE & BAR
 
 ## FIGUEROA
 
-BONAVENTURE BREWING CO.
-LA PRIME
-ENGINE CC. NO. 28
-MORTON'S THE STEAKHOUSE
-FOGO DE CHAO BRAZILLIAN
+_BONAVENTURE BREWING CO._
+_LA PRIME_
+_ENGINE CC. NO. 28_
+_MORTON'S THE STEAKHOUSE_
+_FOGO DE CHAO BRAZILLIAN_
 
 ## FLOWER
 
@@ -79,8 +90,8 @@ FOGO DE CHAO BRAZILLIAN
 * BELCAMPO MEAT CO. _Good simpe burgers_ ***
 * LIONS AND OWLS _Shit_ *
 
-PERCH
-HILL STREET PIZZA
+_PERCH_
+_HILL STREET PIZZA_
 
 ## BROADWAY
 
@@ -96,7 +107,7 @@ HILL STREET PIZZA
 * GUISADOS _Amazing tacos_ ****
 * BLU JAM CAFE _Great fresh lunch, soups and breakfast food_ ****
 
-SPRING
+_SPRING_
 
 ## MAIN
 
