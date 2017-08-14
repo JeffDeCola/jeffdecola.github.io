@@ -8,6 +8,10 @@ _Systems Developer with a passion for IoT and DevOps_
 
 ## WORK EXPERIENCE
 
+### Pexeso, Go Developer (2017)
+
+Currently working as a go developer.
+
 ### Keeperlabs Technologies, Software Architect (2013-2016)
 
 Architected and designed software for an IoT embedded system using
@@ -22,7 +26,7 @@ shorts and commercial for clients in the Los Angeles Area.
 
 ### The Total Picture Seminar, Producer (2009)
 
-Produced a two day seminar on acting, directing and writing for Martin Landau,
+Produced a seminar on acting, directing and writing for Martin Landau,
 Mark Rydell and Lyle Kessler.
 
 ### Good Citizen Productions, Producer (2004-2005)
