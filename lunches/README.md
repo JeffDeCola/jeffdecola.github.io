@@ -5,7 +5,7 @@ Listed from North to South and East to West.
 ## LITTLE TOKYO
 
 * DAIKOKUYA _Amazing ramon_ ****
-* MARUGAME MONZO _Hand made udon_ ****
+* MARUGAME MONZO _Handmade udon_ ****
 * FAR BAR _Great ramon, great bar_ ****
 * CAFE DEMITASSE _Siphon coffee_ ****
 * SUSHIGEN
@@ -27,15 +27,15 @@ Listed from North to South and East to West.
 
 * TO DO
   * ONYX LOUNGE
-* YUKO KITCHEN _Great Japanease and desserts_ ****
-* STRADA EATERAAI & COFFEE _ Amazing sandwhiches and turkish coffee_ ****
+* YUKO KITCHEN _Great Japanese and desserts_ ****
+* STRADA EATERIA & COFFEE _ Amazing sandwiches and turkish coffee_ ****
 
 
 ## 6TH
 
 ## WILSHIRE BLVD
 
-* MIRO RESTERANT _OK hip Italian_ **
+* MIRO RESTAURANT _OK hip Italian_ **
 * 800 DEGREES NEAPOLITAN PIZZERIA _Make your own, great pizza and salads_ ****
 
 SORA
@@ -49,17 +49,17 @@ DEKKADANCE
   * SEASALT FISH GRILL
   * 3RD GENERATION SAKE BAR
 * WOKCANO _Fair Asian, not great_ **
-* OCTOPUS JAPANESE RESTARAUNT _Great Lunch Special_ ***
+* OCTOPUS JAPANESE RESTAURANT _Great Lunch Special_ ***
 * GIULIA _Pretty Good Italian_ ***
   * SUGARFISH
 * SO LONG, HI! _Pretty good thai. **
 * POKETENDO _Great Poke_ ***
 * LITTLE SISTER DOWNTOWN _Asian Fusion_ ***
-* MAS MALO _Amazing Quacamole_ ***
+* MAS MALO _Amazing Guacamole_ ***
 * LOS ANGELES ATHLETIC CLUB INVENTIONS BAR _The club Baby_ ***
 * LOS ANGELES ATHLETIC CLUB INVENTIONS BAR _OK Lunch_ **
 * RICEBAR _Perfect Filipino_ ****
-* LITTLE DAMAGE _Shitty Icecream_ *
+* LITTLE DAMAGE _Shitty ice cream_ *
 
 
 ## 8TH
@@ -68,7 +68,7 @@ DEKKADANCE
 
 * TO DO
   * CASA NOSTRA RISTORANTE & BAR_
-* WOOD SPOON _Amazing Brazillian_ ****
+* WOOD SPOON _Amazing Brazilian_ ****
 * NEW MOON _ Pretty Good Chinese_ ***
 
 ## OLYMPIC
@@ -81,12 +81,12 @@ _BONAVENTURE BREWING CO._
 _LA PRIME_
 _ENGINE CC. NO. 28_
 _MORTON'S THE STEAKHOUSE_
-_FOGO DE CHAO BRAZILLIAN_
+_FOGO DE CHAO BRAZILIAN_
 
 ## FLOWER
 
 * CHAYA _Shit, crappy fired and food_ *
-* DRAGO CENTRO _Expensive Italian but great.  Excellent donut desert_ ****
+* DRAGO CENTRO _Expensive Italian but great.  Excellent donut dessert_ ****
 
 
 ## HOPE
@@ -94,14 +94,14 @@ _FOGO DE CHAO BRAZILLIAN_
 ## GRAND AVE
 
 * TOMGEORGE _Great atmosphere_ ***
-* BOTTEGA LOUIE _Clean Italian Resterant with great deserts_ ***
+* BOTTEGA LOUIE _Clean Italian Restaurant with great desserts_ ***
 
 ## OLIVE
 
 ## GRAND CENTRAL MARKET
 
-* HORSE THEIF _Great brisket_ ****
-* BELCAMPO MEAT CO. _Good simpe burgers_ ***
+* HORSE THIEF _Great brisket_ ****
+* BELCAMPO MEAT CO. _Good simple burgers_ ***
 
 ## HILL
 
@@ -117,8 +117,8 @@ _FOGO DE CHAO BRAZILLIAN_
 
 * BLUE BOTTLE COFFEE _No cream_ **
 * MACCHERONI REPUBLIC _Great value, fresh pasta, love this place_ ****
-* MESCALERO _Mescal and tacos, what more do you want_ ***
-* KAI JAPANEASE ROOTS SUSHI _Good lunch specials_ ***
+* MESCALERO _Mezcal and tacos, what more do you want_ ***
+* KAI JAPANESE ROOTS SUSHI _Good lunch specials_ ***
 * CLIFTON'S REPUBLIC _American fare, cafeteria style_ ****
 * UMAMI BURGER _Gourmet burgers_ ****
 
@@ -137,10 +137,10 @@ _FOGO DE CHAO BRAZILLIAN_
 
 * TO DO
   * SENOR FISH
-* SPREAD MEDITARRANEAN KITCHEN _It's fair_ **
+* SPREAD MEDITERRANEAN KITCHEN _It's fair_ **
 * TILT COFFEE BAR _Ok_ **
 * LEDLOW/P.Y.T. _Small plates and expensive but good_ **
-* BACO MERCAT _Mediteranean, good sandwhiches_ ***
+* BACO MERCAT Mediterranean, good sandwiches_ ***
 * NICKEL DINNER _Perfect Breakfast Food_ ****
   * ARTISAN HOUSE
 * CASA LA DONA _Most unhappiest I've been at lunch - Rock Soup_ *
