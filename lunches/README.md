@@ -4,11 +4,13 @@ Listed from North to South.
 
 ## LITTLE TOKYO
 
-* DAIKOKUYA _Amazing ramon_ ****
-* MARUGAME MONZO _Hand made udon_ ****
-* FAR BAR _Great ramon, great bar_ ****
-* CAFE DEMITASSE _Siphon coffee_ ****
-* SUSHIGEN
+```go
+DAIKOKUYA _Amazing ramon_ ****
+MARUGAME MONZO _Hand made udon_ ****
+FAR BAR _Great ramon, great bar_ ****
+CAFE DEMITASSE _Siphon coffee_ ****
+SUSHIGEN
+```
 
 ## CHINATOWN
 
