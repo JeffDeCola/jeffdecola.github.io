@@ -16,11 +16,20 @@ Listed from North to South and East to West.
 
 ## 2ND
 
+* LILIYA CHINA BISTRO _Far from a bistro_ *
+* BADMASH _Indian and not a fan_ *
+
 ## 3RD
 
 ## 4TH
 
 ## 5TH
+
+* TO DO
+  * ONYX LOUNGE
+* YUKO KITCHEN _Great Japanease and desserts_ ****
+* STRADA EATERAAI & COFFEE _ Amazing sandwhiches and turkish coffee_ ****
+
 
 ## 6TH
 
@@ -34,7 +43,7 @@ DEKKADANCE
 
 ## 7TH
 
-* TOGO
+* TO DO
   * DUBLIN'S IRISH WHISKEY PUB
 * 10e RESTAURANT _Mediterranean, great flat bread_ ***
   * SEASALT FISH GRILL
@@ -57,7 +66,10 @@ DEKKADANCE
 
 ## 9TH
 
-_CASA NOSTRA RISTORANTE & BAR_
+* TO DO
+  * CASA NOSTRA RISTORANTE & BAR_
+* WOOD SPOON _Amazing Brazillian_ ****
+* NEW MOON _ Pretty Good Chinese_ ***
 
 ## OLYMPIC
 
@@ -86,14 +98,20 @@ _FOGO DE CHAO BRAZILLIAN_
 
 ## OLIVE
 
-## HILL
+## GRAND CENTRAL MARKET
 
 * HORSE THEIF _Great brisket_ ****
 * BELCAMPO MEAT CO. _Good simpe burgers_ ***
-* LIONS AND OWLS _Shit_ *
 
-_PERCH_
-_HILL STREET PIZZA_
+## HILL
+
+* TO DO
+  * PERCH
+  * HILL STREET PIZZA
+* LIONS AND OWLS _Shit_ *
+* RAMA THAI CUISINE _In basement, not that great_ *
+  * SHIBUMI
+
 
 ## BROADWAY
 
@@ -106,10 +124,23 @@ _HILL STREET PIZZA_
 
 ## SPRING
 
+* TODO
+  * SPRING
+  * LE PETIT PARIS
 * GUISADOS _Amazing tacos_ ****
 * BLU JAM CAFE _Great fresh lunch, soups and breakfast food_ ****
-
-_SPRING_
+* TERRONI _Expensive Italian_ **
+  * PEKING TAVERN
+  * PREUX & PROPER
 
 ## MAIN
 
+* TO DO
+  * SENOR FISH
+* SPREAD MEDITARRANEAN KITCHEN _It's fair_ **
+* TILT COFFEE BAR _Ok_ **
+* LEDLOW/P.Y.T. _Small plates and expensive but good_ **
+* BACO MERCAT _Mediteranean, good sandwhiches_ ***
+* NICKEL DINNER _Perfect Breakfast Food_ ****
+  * ARTISAN HOUSE
+* CASA LA DONA _Most unhappiest I've been at lunch - Rock Soup_ *
