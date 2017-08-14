@@ -4,7 +4,7 @@ Listed from North to South.
 
 ## LITTLE TOKYO
 
-```go
+```
 DAIKOKUYA _Amazing ramon_ ****
 MARUGAME MONZO _Hand made udon_ ****
 FAR BAR _Great ramon, great bar_ ****
