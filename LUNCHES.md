@@ -4,9 +4,9 @@ Listed from North to South and East to West.
 
 ## LITTLE TOKYO
 
-* DAIKOKUYA _Amazing ramon_ ****
+* DAIKOKUYA _Amazing ramen_ ****
 * MARUGAME MONZO _Handmade udon_ ****
-* FAR BAR _Great ramon, great bar_ ****
+* FAR BAR _Great ramen, great bar_ ****
 * CAFE DEMITASSE _Siphon coffee_ ****
 * SUSHIGEN
 
