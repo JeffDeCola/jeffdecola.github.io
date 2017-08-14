@@ -8,6 +8,7 @@ Listed from North to South.
 * MARUGAME MONZO _Hand made udon_ ****
 * FAR BAR _Great ramon, great bar_ ****
 * CAFE DEMITASSE _Siphon coffee_ ****
+* SUSHIGEN
 
 ## CHINATOWN
 
@@ -42,7 +43,7 @@ Listed from North to South.
 
   * SPRING
 * GUISADOS _Amazing tacos_ ****
-* BLU JAM CAFE _ Great fresh lunch, soups and breakfast food_ ****
+* BLU JAM CAFE _Great fresh lunch, soups and breakfast food_ ****
 
 ## MAIN
 
