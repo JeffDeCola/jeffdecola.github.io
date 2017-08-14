@@ -12,13 +12,62 @@ Listed from North to South.
 
 ## CHINATOWN
 
+## 1ST
+
+## 2ND
+
+## 3RD
+
+## 4TH
+
+## 5TH
+
+## 6TH
+
+## WILSHIRE BLVD
+
+    * SORA
+    * DEKKADANCE
+  * MIRO RESTERANT _OK hip Italian_ **
+  * 800 DEGREES NEAPOLITAN PIZZERIA _Make your own, great pizza and salads_ ****
+
+## 7TH
+
+  * 10e RESTAURANT _ Mediterranean, great flat bread_ ***
+    * SEASALT FISH GRILL
+  * WOKCANO _Fair Asian, not great_ **
+    * SUGARFISH
+
+## 8TH
+
+## 9TH
+
+    * CASA NOSTRA RISTORANTE & BAR
+
+## OLYMPIC
+
+    TRIPLE 8 CHINA BAR AND GRILL _Nice, nothing special_ **
+
 ## FIGUEROA
 
+    * BONAVENTURE BREWING CO.
+    * LA PRIME
+    * ENGINE CC. NO. 28
+    * MORTON'S THE STEAKHOUSE
+    * FOGO DE CHAO BRAZILLIAN
+
 ## FLOWER
+
+  * CHAYA _Shit, crappy fired and food_ *
+  * DRAGO CENTRO _Expensive Italian but great.  Excellent donut desert_ ****
+
 
 ## HOPE
 
 ## GRAND AVE
+
+  * TOMGEORGE _Great atmosphere_ ***
+  * BOTTEGA LOUIE _Clean Italian Resterant with great deserts_ ***
 
 ## OLIVE
 
@@ -41,7 +90,7 @@ Listed from North to South.
 
 ## SPRING
 
-  * SPRING
+    * SPRING
 * GUISADOS _Amazing tacos_ ****
 * BLU JAM CAFE _Great fresh lunch, soups and breakfast food_ ****
 
