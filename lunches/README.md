@@ -1,16 +1,14 @@
 # VARIOUS LUNCHES AROUND DTLA
 
-Listed from North to South.
+Listed from North to South and East to West.
 
 ## LITTLE TOKYO
 
-```
-DAIKOKUYA _Amazing ramon_ ****
-MARUGAME MONZO _Hand made udon_ ****
-FAR BAR _Great ramon, great bar_ ****
-CAFE DEMITASSE _Siphon coffee_ ****
-SUSHIGEN
-```
+* DAIKOKUYA _Amazing ramon_ ****
+* MARUGAME MONZO _Hand made udon_ ****
+* FAR BAR _Great ramon, great bar_ ****
+* CAFE DEMITASSE _Siphon coffee_ ****
+* SUSHIGEN
 
 ## CHINATOWN
 
@@ -28,48 +26,50 @@ SUSHIGEN
 
 ## WILSHIRE BLVD
 
-    * SORA
-    * DEKKADANCE
-  * MIRO RESTERANT _OK hip Italian_ **
-  * 800 DEGREES NEAPOLITAN PIZZERIA _Make your own, great pizza and salads_ ****
+* MIRO RESTERANT _OK hip Italian_ **
+* 800 DEGREES NEAPOLITAN PIZZERIA _Make your own, great pizza and salads_ ****
+
+SORA
+DEKKADANCE
 
 ## 7TH
 
-  * 10e RESTAURANT _ Mediterranean, great flat bread_ ***
-    * SEASALT FISH GRILL
-  * WOKCANO _Fair Asian, not great_ **
-    * SUGARFISH
+* 10e RESTAURANT _Mediterranean, great flat bread_ ***
+* WOKCANO _Fair Asian, not great_ **
+
+SEASALT FISH GRILL
+SUGARFISH
 
 ## 8TH
 
 ## 9TH
 
-    * CASA NOSTRA RISTORANTE & BAR
+CASA NOSTRA RISTORANTE & BAR
 
 ## OLYMPIC
 
-    TRIPLE 8 CHINA BAR AND GRILL _Nice, nothing special_ **
+* TRIPLE 8 CHINA BAR AND GRILL _Nice, nothing special_ **
 
 ## FIGUEROA
 
-    * BONAVENTURE BREWING CO.
-    * LA PRIME
-    * ENGINE CC. NO. 28
-    * MORTON'S THE STEAKHOUSE
-    * FOGO DE CHAO BRAZILLIAN
+BONAVENTURE BREWING CO.
+LA PRIME
+ENGINE CC. NO. 28
+MORTON'S THE STEAKHOUSE
+FOGO DE CHAO BRAZILLIAN
 
 ## FLOWER
 
-  * CHAYA _Shit, crappy fired and food_ *
-  * DRAGO CENTRO _Expensive Italian but great.  Excellent donut desert_ ****
+* CHAYA _Shit, crappy fired and food_ *
+* DRAGO CENTRO _Expensive Italian but great.  Excellent donut desert_ ****
 
 
 ## HOPE
 
 ## GRAND AVE
 
-  * TOMGEORGE _Great atmosphere_ ***
-  * BOTTEGA LOUIE _Clean Italian Resterant with great deserts_ ***
+* TOMGEORGE _Great atmosphere_ ***
+* BOTTEGA LOUIE _Clean Italian Resterant with great deserts_ ***
 
 ## OLIVE
 
@@ -77,9 +77,10 @@ SUSHIGEN
 
 * HORSE THEIF _Great brisket_ ****
 * BELCAMPO MEAT CO. _Good simpe burgers_ ***
-  * PERCH
-  * HILL STREET PIZZA
-* LIONS AND OWLS _Complete and utter shit_ *
+* LIONS AND OWLS _Shit_ *
+
+PERCH
+HILL STREET PIZZA
 
 ## BROADWAY
 
@@ -92,9 +93,10 @@ SUSHIGEN
 
 ## SPRING
 
-    * SPRING
 * GUISADOS _Amazing tacos_ ****
 * BLU JAM CAFE _Great fresh lunch, soups and breakfast food_ ****
+
+SPRING
 
 ## MAIN
 
