@@ -47,7 +47,8 @@ Fujitsu's Enterprise Router Project.
 
 Architected and designed entire SONET/SDH simulation environment for the testing
 of a SONET/SDH STS-48/STM-16 IP core.  Architected and designed transmit framer,
-TOH/SOH insert block, and transmit SPE/VC frame generator for Siltek SONET/SDH IP Core.
+TOH/SOH insert block, and transmit SPE/VC frame generator for Siltek SONET/SDH
+IP Core.
 
 ### Cabletron Systems - Senior Hardware Engineer (1993-1997)
 
