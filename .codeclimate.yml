@@ -22,13 +22,14 @@ plugins:
   shellcheck:
     enabled: true
     plugins:
-  csslint:
-    enabled: true
   ssonar-php:
     enabled: true
+#  csslint:
+#    enabled: true
 
 # exclude_patterns: Exclude files and/or directories from analysis
 # - <pattern>
 # - <pattern>
 exclude_patterns:
 - "docs/"
+- "LUNCHES.md"

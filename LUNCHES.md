@@ -26,10 +26,9 @@ Listed from North to South and East to West.
 ## 5TH
 
 * TO DO
-  * ONYX LOUNGE
+* ONYX LOUNGE
 * YUKO KITCHEN _Great Japanese and desserts_ ****
 * STRADA EATERIA & COFFEE _ Amazing sandwiches and turkish coffee_ ****
-
 
 ## 6TH
 
@@ -61,7 +60,6 @@ DEKKADANCE
 * RICEBAR _Perfect Filipino_ ****
 * LITTLE DAMAGE _Shitty ice cream_ *
 
-
 ## 8TH
 
 ## 9TH
@@ -89,7 +87,6 @@ DEKKADANCE
 * CHAYA _Shit, crappy fired and food_ *
 * DRAGO CENTRO _Expensive Italian but great.  Excellent donut dessert_ ****
 
-
 ## HOPE
 
 ## GRAND AVE
@@ -112,7 +109,6 @@ DEKKADANCE
 * LIONS AND OWLS _Shit_ *
 * RAMA THAI CUISINE _In basement, not that great_ *
   * SHIBUMI
-
 
 ## BROADWAY
 
