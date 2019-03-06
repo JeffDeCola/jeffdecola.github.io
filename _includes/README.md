@@ -17,7 +17,7 @@ An overview of all my repos.
    _A cluster of lightweight DockerHub Images playing catch with a
    virtual ball._
 
-* [gce-instance-resource](https://jeffdecola.github.io/gce-instance-resouce/)
+* [gce-instance-resource](https://jeffdecola.github.io/gce-instance-resource/)
 
   _A concourse resource type to check for new
   Google Compute Engine (GCE) Instance. It is tested, built and pushed to
