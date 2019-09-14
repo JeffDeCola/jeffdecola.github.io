@@ -2,7 +2,7 @@
 Los Angeles, CA 90046,
 310-880-7526
 
-[Jeff.DeCo.la](http://jeff.deco.la), [GitHub Profile](https://jeffdecola.github.io/)
+[GitHub Profile](https://github.com/JeffDeCola)
 
 _Systems Developer with a passion for IoT and DevOps_
 
@@ -10,7 +10,7 @@ _Systems Developer with a passion for IoT and DevOps_
 
 ### Pexeso, Go Developer (2017)
 
-Currently working as a go developer.
+Worked as a devops/go developer.
 
 ### Keeperlabs Technologies, Software Architect (2013-2016)
 
@@ -62,7 +62,7 @@ University of New Hampshire, Durham, New Hampshire, B.S.E.E. 1991,  M.S.E.E. 199
 IEEE, Chapter Vice President
 
 Master's Thesis:
-["A High-Level Design Framework Illustrating Technology Migration"](http://librarycatalog.unh.edu/search~S5?/aDeCola%2C+Jeffry+A/adecola+jeffry+a/-3%2C-1%2C0%2CB/frameset&FF=adecola+jeffry+a&1%2C1%2C)
+["A High-Level Design Framework Illustrating Technology Migration"](https://unh.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991007116219805221&context=L&vid=01USNH_UNH:MAIN&search_scope=MyInst_and_CI&tab=Everything&lang=en)
 
 ## PUBLICATIONS
 
