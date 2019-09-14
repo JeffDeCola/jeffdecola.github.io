@@ -2,7 +2,8 @@
 Los Angeles, CA 90046,
 310-880-7526
 
-[GitHub Profile](https://github.com/JeffDeCola)
+[GitHub Profile](https://github.com/JeffDeCola),
+[My Repos](https://github.com/JeffDeCola?tab=repositories)
 
 _Systems Developer with a passion for IoT and DevOps_
 
