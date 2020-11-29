@@ -11,12 +11,12 @@ An overview of my favorite repos.
 
 ## GO
 
-* [hello-go-deploy-gce](https://github.com/JeffDeCola/hello-go-deploy-gce)
+* [hello-go-deploy-gce](https://jeffdecola.github.io/hello-go-deploy-gce)
 
   _Test, build, push (to DockerHub) and deploy a long
   running "hello-world" Docker Image to Google Compute Engine (gce)._
 
-* [jeffCoin](https://github.com/JeffDeCola/jeffCoin)
+* [jeffCoin](https://jeffdecola.github.io/jeffCoin)
 
   _A cryptocurrency (transaction based data) built on distributed decentralized
   multi-node P2P open Network using a sha256 Proof of Work (PoW) blockchain
@@ -26,7 +26,7 @@ An overview of my favorite repos.
 
    _A place to keep my go code snippets and examples._
 
-* [my-go-tools](https://github.com/JeffDeCola/my-go-tools)
+* [my-go-tools](https://jeffdecola.github.io/my-go-tools)
 
    _A place to keep useful tools I created in go._
 
@@ -45,7 +45,7 @@ An overview of my favorite repos.
 
 ## OTHER
 
-* [my-docker-image-builds](https://github.com/JeffDeCola/my-docker-image-builds/)
+* [my-docker-image-builds](https://jeffdecola.github.io/my-docker-image-builds/)
 
   _A place to build and push my docker images I use for various projects._
 
@@ -53,11 +53,11 @@ An overview of my favorite repos.
 
   _A High-Level Design Framework Illustrating Technology Migration._
 
-* [my-packer-image-builds](https://github.com/JeffDeCola/my-packer-image-builds)
+* [my-packer-image-builds](https://jeffdecola.github.io/my-packer-image-builds)
 
   _A place for me to create images via packer._
 
-* [my-vagrant-boxes](https://github.com/JeffDeCola/my-vagrant-boxes)
+* [my-vagrant-boxes](https://jeffdecola.github.io/my-vagrant-boxes)
 
   _A place for me to create and use vagrant boxes with the goal of having a
   common development environment._
