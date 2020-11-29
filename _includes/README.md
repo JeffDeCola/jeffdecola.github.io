@@ -1,6 +1,7 @@
-# LIST OF PROJECTS
+# MY FAVORITE REPOS
 
-An overview of my favorite repos.
+My entire repo list
+[here](https://github.com/JeffDeCola?tab=repositories).
 
 ## CHEAT SHEETS
 
