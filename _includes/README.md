@@ -36,6 +36,12 @@ An overview of my favorite repos.
 
   _A place to keep my **synthesizable** SystemVerilog code snippets and examples._
 
+## FPGA
+
+* [control-fpga-via-raspi-and-webserver](https://jeffdecola.github.io/control-fpga-via-raspi-and-webserver/)
+
+  _Control a FPGA via a Raspberry Pi and a Webserver._
+
 ## WEBSITE
 
 * [my-php-containers](https://jeffdecola.github.io/my-php-containers/)
