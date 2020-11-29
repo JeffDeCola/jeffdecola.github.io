@@ -1,78 +1,63 @@
 # LIST OF PROJECTS
 
-An overview of all my repos.
+An overview of my favorite repos.
 
 ## CHEAT SHEETS
 
 * [my-cheat-sheets](https://jeffdecola.github.io/my-cheat-sheets/)
 
-  _A place to keep all my cheat sheets
-  on everything you need for the complete development of
-  ASIC hardware or a software service._
+  _A place to keep all my cheat sheets for the complete development of
+  ASIC/FPGA hardware or a software app/service._
 
 ## GO
 
-* [catch-microservice](https://jeffdecola.github.io/catch-microservice/)
+* [hello-go-deploy-gce](https://github.com/JeffDeCola/hello-go-deploy-gce)
 
-   _A cluster of lightweight DockerHub Images playing catch with a
-   virtual ball._
+  _Test, build, push (to DockerHub) and deploy a long
+  running "hello-world" Docker Image to Google Compute Engine (gce)._
 
-* [gce-instance-resource](https://jeffdecola.github.io/gce-instance-resource/)
+* [jeffCoin](https://github.com/JeffDeCola/jeffCoin)
 
-  _A concourse resource type to check for new
-  Google Compute Engine (GCE) Instance. It is tested, built and pushed to
-  DockerHub using Concourse._
-
-* [hello-go](https://jeffdecola.github.io/hello-go/)
-
-  _Using Concourse to test, build, push (to DockerHub) and
-  deploy a long running "hello-world" Docker Image to Marathon._
+  _A cryptocurrency (transaction based data) built on distributed decentralized
+  multi-node P2P open Network using a sha256 Proof of Work (PoW) blockchain
+  with a REST JSON API and a TCP Server to communicate between the Nodes over IP._
 
 * [my-go-examples](https://jeffdecola.github.io/my-go-examples/)
 
-   _A place to keep my go code snippets and
-   examples._
+   _A place to keep my go code snippets and examples._
 
-* [resource-marathon-deploy](https://jeffdecola.github.io/resource-marathon-deploy/)
+* [my-go-tools](https://github.com/JeffDeCola/my-go-tools)
 
-   _A Concourse resource type that deploys an APP to Marathon
-   using a .json file._
-
-* [resource-template](https://jeffdecola.github.io/resource-template/)
-
-   _Can be used as a template for developing a Concourse resource⋅⋅⋅
-   type. It is tested, built and pushed to DockerHub using Concourse._
-
-* [marathon-resource](https://github.com/ckaznocha/marathon-resource/)
-
-   (Contributor) _A Concourse resource to deploy applications to Marathon._
-
-* [RESTful-API-test](https://jeffdecola.github.io/RESTful-API-test/)
-
-   _A very limited RESTful API in which you can GET
-   and POST data from a database via a CLI http client._
-
-## PYTHON
-
-* [my-python-examples](https://jeffdecola.github.io/my-python-examples/)
-
-  _A place to keep my python code snippets and examples._
+   _A place to keep useful tools I created in go._
 
 ## SYSTEMVERILOG
 
 * [my-systemverilog-examples](https://jeffdecola.github.io/my-systemverilog-examples/)
 
-  _A place to keep my SystemVerilog code snippets and examples._
+  _A place to keep my **synthesizable** SystemVerilog code snippets and examples._
 
 ## WEBSITE
 
 * [my-php-containers](https://jeffdecola.github.io/my-php-containers/)
 
-  _A place to keep my php container examples.
-   Designed for Dynamic Screen Widths._
+  _A place to keep my php containers.
+  All containers designed for dynamic screen widths._
 
 ## OTHER
 
-* [my-concourse-ci-tasks](https://jeffdecola.github.io/my-concourse-ci-tasks/)
+* [my-docker-image-builds](https://github.com/JeffDeCola/my-docker-image-builds/)
 
-   _A place to keep snippets and examples of Concourse CI tasks._
+  _A place to build and push my docker images I use for various projects._
+
+* [my-masters-thesis](https://jeffdecola.github.io/my-masters-thesis/)
+
+  _A High-Level Design Framework Illustrating Technology Migration._
+
+* [my-packer-image-builds](https://github.com/JeffDeCola/my-packer-image-builds)
+
+  _A place for me to create images via packer._
+
+* [my-vagrant-boxes](https://github.com/JeffDeCola/my-vagrant-boxes)
+
+  _A place for me to create and use vagrant boxes with the goal of having a
+  common development environment._
