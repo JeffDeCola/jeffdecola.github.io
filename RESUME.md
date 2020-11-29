@@ -5,7 +5,7 @@ Los Angeles, CA 90046,
 [GitHub Profile](https://github.com/JeffDeCola),
 [My Repos](https://github.com/JeffDeCola?tab=repositories)
 
-_Systems Developer with a passion for IoT and DevOps_
+_Systems Developer with a passion for IoT, FPGAs and DevOps_
 
 ## WORK EXPERIENCE
 
