@@ -41,7 +41,11 @@ My entire repo list
 
 * [control-fpga-via-raspi-and-webserver](https://jeffdecola.github.io/control-fpga-via-raspi-and-webserver/)
 
-  _Control a FPGA via a Raspberry Pi and a Webserver._
+  _Control a FPGA via a Raspberry Pi and a Webserver.
+   As an example, I burned my
+   [programable-8-bit-microprocessor](https://github.com/JeffDeCola/my-systemverilog-examples/tree/master/systems/microprocessors/programable-8-bit-microprocessor)
+   to an FPGA development board and you can control it at
+   [JeffDeCola.com/fpga](https://jeffdecola.com/fpga/).
 
 ## WEBSITE
 
