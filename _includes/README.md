@@ -1,6 +1,6 @@
 # MY FAVORITE REPOS
 
-My entire repo list
+My entire repo list is
 [here](https://github.com/JeffDeCola?tab=repositories).
 
 ## CHEAT SHEETS
@@ -31,7 +31,7 @@ My entire repo list
 
    _A place to keep useful tools I created in go._
 
-## SYSTEMVERILOG
+## VERILOG
 
 * [my-systemverilog-examples](https://jeffdecola.github.io/my-systemverilog-examples/)
 
