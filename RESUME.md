@@ -1,11 +1,12 @@
-# Jeffry A. DeCola
-Los Angeles, CA 90046,
+# JEFFRY A. DECOLA
+
+Boston, MA
 310-880-7526
 
-[GitHub Profile](https://github.com/JeffDeCola),
-[My Repos](https://github.com/JeffDeCola?tab=repositories)
+[Github profile](https://github.com/JeffDeCola),
+[my repos](https://github.com/JeffDeCola?tab=repositories)
 
-_Systems Developer with a passion for IoT, FPGAs and DevOps_
+_Backend developer with a passion for IoT, FPGAs and DevOps._
 
 ## WORK EXPERIENCE
 
@@ -21,7 +22,7 @@ microservices.
 
 ### It's Terrific Pictures, Co-Owner/Producer (2005-2013)
 
-Produced an award winning feature "The Frontier", starring Max Gail.
+Produced an award winning film "The Frontier", starring Max Gail.
 Premiered at SXSW (2013). Produced music videos, documentaries,
 shorts and commercial for clients in the Los Angeles Area.
 
