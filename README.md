@@ -1,4 +1,4 @@
-# jeffdecola.github.io
+# JEFFDECOLA.GITHUB.IO
 
 [![CodeClimate Issues](https://codeclimate.com/github/JeffDeCola/jeffdecola.github.io/badges/issue_count.svg)](https://codeclimate.com/github/JeffDeCola/jeffdecola.github.io/issues)
 [![MIT License](https://img.shields.io/:license-mit-blue.svg)](https://jeffdecola.mit-license.org)
