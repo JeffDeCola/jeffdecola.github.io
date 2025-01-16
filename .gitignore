@@ -1,11 +1,7 @@
-# CONCOURSE
+# repo-generic-.gitignore
+
+# CONCOURSE SECRETS
 .credentials.yml
-
-# VSCODE
-.vscode/
-
-# GO
-coverage.out
 
 # macOS
 .DS_Store
